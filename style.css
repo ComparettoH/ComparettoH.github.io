@@ -5,4 +5,10 @@ color: white;
 font-family: Tahoma, sans-sarif;
 margin: 10%;}
 
-h1 {text-align: center; font-family: Garamond, serif}
+h1 {text-align: center;
+text-transform: uppercase;
+border: 1px solid white;}
+
+table {border: none;
+  text-align: justify;
+  width: 100%;}
