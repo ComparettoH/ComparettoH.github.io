@@ -1,14 +1,36 @@
-body {background: url(https://www.smartartdirect.com/wp/wp-content/uploads/2018/08/indigo-mountains.jpg) no-repeat center fixed;
+body {background: url(https://i.ibb.co/3TmwkXj/Adobe-Stock-298359661.jpg) no-repeat center fixed;
   background-size: cover;
-background-color: #;
+background-color: #660066;
 color: white;
 font-family: Tahoma, sans-sarif;
-margin: 10%;}
+margin: 5%;}
 
 h1 {text-align: center;
 text-transform: uppercase;
 border: 1px solid white;}
 
 table {border: none;
+  border-radius: 5px
   text-align: justify;
   width: 100%;}
+
+h2 {text-align: center;
+text-transform: uppercase;
+color:white}
+
+h4 {border-bottom: 1px solid white;}
+
+h5 {text-align: right;}
+
+a:link {color: #660066;
+  background-color: transparent;
+  text-decoration: none;}
+a:visited {color: #ff6699;
+  background-color: transparent;
+  text-decoration: none;}
+a:hover {color: #ff9933;
+  background-color: transparent;
+  text-decoration: underline;}
+a:active {color: white;
+  background-color: transparent;
+  text-decoration: underline;}
