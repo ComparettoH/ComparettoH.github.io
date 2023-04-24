@@ -3,7 +3,8 @@ body {background: url(https://i.ibb.co/3TmwkXj/Adobe-Stock-298359661.jpg) no-rep
 background-color: #660066;
 color: white;
 font-family: Tahoma, sans-sarif;
-margin: 5%;}
+margin: 5%;
+margin-top: 1%;}
 
 h1 {text-align: center;
 font-size: 80px;
@@ -11,7 +12,8 @@ text-transform: uppercase;
 text-shadow: black 4px 4px;
 border-style: double;
 border-color: black;
-border-radius: 5px}
+border-radius: 5px;
+overflow: auto;}
 
 table {border: none;
   border-radius: 5px;
@@ -34,11 +36,13 @@ text-shadow: black 1px 1px;}
 
 h4 {border-bottom: 1px solid white;
 font-style: italic;
-color: black;}
+color: black;
+margin-bottom: 0%;}
 
 h5 {text-align: right;
 color: black;
-font-style: italic}
+font-style: italic;
+margin-top: 0%;}
 
 a:link {color: #660066;
   background-color: transparent;
